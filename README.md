@@ -1,6 +1,6 @@
 # 🎯 Sorteo de Amigos
 
-![Portada del proyecto](./assets/portada.png) <!-- Opcional, puedes cambiar la ruta -->
+![Portada del proyecto](./assets/amigo-secreto.png) <!-- Opcional, puedes cambiar la ruta -->
 
 ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
@@ -30,10 +30,10 @@ Está desarrollado con HTML, CSS y JavaScript, siguiendo buenas prácticas de ma
 - Seleccionar un amigo al azar sin repeticiones hasta completar todos
 
 ## 📸 Demostración
-*(Agrega aquí una imagen o gif de tu aplicación en funcionamiento)*
+![Imagen de la app funcionando](assets/Preview.PNG)
 
 ## 🔗 Acceso al Proyecto
-[Ver repositorio en GitHub](https://github.com/tuusuario/turepo)
+[Ver repositorio en GitHub](https://github.com/KaruvaStudio/challenge-amigo-secreto.git)
 
 ## 🛠️ Tecnologías Utilizadas
 - HTML5
@@ -42,8 +42,7 @@ Está desarrollado con HTML, CSS y JavaScript, siguiendo buenas prácticas de ma
 
 ## 👩‍💻 Autor
 Carolina Castrillón Esparza 
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/karuvastudio)
+[LinkedIn](https://www.linkedin.com/in/carolinacastrillon/) | [GitHub](https://github.com/KaruvaStudio)
 
 ## 📄 Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más información.
-
+Este proyecto no está bajo la Licencia. 
